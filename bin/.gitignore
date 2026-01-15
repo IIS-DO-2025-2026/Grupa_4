@@ -1,3 +1,9 @@
 /adapter/
+/command/
 /composite/
+/module-info.class
 /mvc/
+/singleton/
+/observer1/
+/observer2/
+/observer3/
