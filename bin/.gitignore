@@ -1,9 +1,12 @@
 /adapter/
 /command/
-/composite/
 /module-info.class
+/composite/
 /mvc/
-/singleton/
 /observer1/
 /observer2/
 /observer3/
+/singleton/
+/strategy/
+/builder1/
+/builder2/
